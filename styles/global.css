@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login_background {
+  background-image:url('/assets/hotel.jpg');
+  background-size: cover;
+  height: 100vh;
+}
